@@ -1,4 +1,5 @@
-Hi, I'm Cristiana Kovacs 👋
+markdown
+# Hi, I'm Cristiana Kovacs 👋
 Aspiring Data Scientist currently completing certification | Passionate about data analysis, machine learning, and turning data into insights | Business Consultant | Open to freelance collaborations and projects
 
 About Me
